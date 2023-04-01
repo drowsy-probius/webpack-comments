@@ -1,3 +1,9 @@
+# webpack comments
+
+webpack의 첫번째 커밋에서부터 코드를 분석하고 어떻게 구현되어있고 동작하는 원리를 알아봅시다.
+
+
+---
 # modules-webpack
 
 ## Goal
